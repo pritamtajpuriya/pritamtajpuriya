@@ -1,53 +1,53 @@
-<h1 align="center">Hi 👋, I'm Pritam Tajpuria</h1>
-<h3 align="center">Software Developer | Flutter Developer </h3>
+# <div align="center">👋 Hey There! I'm Pritam Tajpuria</div>
+### <div align="center">🚀 Software Developer | Flutter Enthusiast</div>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/tajpuriyapritam?label=PritamTajpuria&logo=twitter&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/pritamtajpuriya?label=Pritamtajpuria&logo=GitHub&style=for-the-badge)
+<div align="center">
+  <a href="https://twitter.com/tajpuriyapritam"><img src="https://img.shields.io/twitter/follow/tajpuriyapritam?label=Follow%20Me&style=social&logo=twitter" alt="Twitter Follow"></a>&nbsp;&nbsp;
+  <a href="https://github.com/pritamtajpuriya"><img src="https://img.shields.io/github/followers/pritamtajpuriya?label=Follow%20Me&style=social&logo=GitHub" alt="GitHub Followers"></a>
+</div>
 
-- 🔭 I’m open to work as Freelancer, Remote or in-site.
+---
 
-- 🌱 I’m currently learning **ASP.NET**
+### 🌟 About Me
+- 🔭 **Currently Building**: Awesome apps as a Flutter Developer  
+- 🌱 Sharpening Skills: Advanced Automation, Python CI/CD Pipelines 
+- 👯 **Collaboration Vibes**: Always excited to team up with fellow coders  
+- 💼 **Open For**: Freelance gigs, remote roles, or on-site adventures  
 
-- 👯 I’m looking to collaborate with **Other Programmer**
+---
 
+### 📬 Let’s Connect!
+<div align="center">
+  <a href="https://twitter.com/tajpuriyapritam"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>&nbsp;
+  <a href="https://linkedin.com/in/pritam-tajpuriya-8953831a5"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
+  <a href="https://instagram.com/pritamtajpuriya"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>&nbsp;
+  <a href="https://medium.com/@pritamtajpuria"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=flat-square&logo=medium&logoColor=white" alt="Medium"></a>&nbsp;
+  <a href="https://facebook.com/pritam.tajpuriya.1232"><img src="https://img.shields.io/badge/Facebook-%233b5998.svg?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+</div>
 
-### Connect with me:
+---
 
-<p>
-  <a href="https://www.twitter.com/tajpuriyapritam"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
-  <a href="https://www.linkedin.com/in/pritam-tajpuriya-8953831a5"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-  <a href="https://www.instagram.com/pritamtajpuriya/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
-  <a href="https://medium.com/@pritamtajpuria"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
-  <a href="https://www.facebook.com/pritam.tajpuriya.1232"><img src="https://img.shields.io/badge/facebook-%3b5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> 
+### 🛠️ My Tech Arsenal
+<div align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Flutter" height="60"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="Dart" height="60"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" height="60"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="60"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" height="60"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Firebase" height="60"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="60"/>
+</div>
 
-</p>
+---
 
-<br />
+### 📊 My Coding Journey
+<div align="center">
+  <a href="https://github.com/pritamtajpuriya/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritamtajpuriya&hide=c%23,powershell,java&title_color=ff6f61&text_color=333333&icon_color=ff6f61&bg_color=f7f7f7&langs_count=8&layout=compact&border_radius=10" alt="Top Languages" height="180"/>
+  </a>&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=pritamtajpuriya&show_icons=true&title_color=ff6f61&text_color=333333&icon_color=ff6f61&bg_color=f7f7f7&border_radius=10" alt="GitHub Stats" height="180"/>
+</div>
 
+---
 
-  
-**Languages and Tools:**  
-
-<code > <img height = "50" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" > </code >
-<code > <img height = "50" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" > </code >
-<code > <img height = "50" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" > </code >
-<code > <img height = "50" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" > </code >
-
-<code > <img height = "50" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" > </code >
-<code > <img height = "50" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" > </code >
-<code > <img height = "50" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" > </code >
-
-
- 
-
-<br>
-<p>
- <a href="https://github.com/pritamtajpuriya/github-readme-stats">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritamtajpuriya&hide=c%23,powershell,java&title_color=2aa889&text_color=000&icon_color=2bbc8a&bg_color=fff&langs_count=8&layout=compact"/>
-  </a>
-  <img align="center" height=175 src="https://github-readme-stats.vercel.app/api?username=pritamtajpuriya&show_icons=true" alt="pritamtajpuriya" />
- </p>
-
-
-<p>&nbsp;</p>
-
+<div align="center">✨ **Code is my canvas, and I’m painting the future!** ✨</div>
